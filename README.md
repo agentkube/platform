@@ -22,6 +22,8 @@
 
 </div>
 
+![](./assets/platform.png)
+
 ## What is Agentkube?
 
 Agentkube is an AI-powered Kubernetes management platform that bridges the gap between developers and complex cluster operations. It simplifies Kubernetes adoption by automating cluster management, investigating issues, and providing intelligent solutions - all through an intuitive interface that speaks your language.
