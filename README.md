@@ -22,7 +22,7 @@
 
 </div>
 
-![](./assets/platform.png)
+![](./assets/platform-2.png)
 
 ## What is Agentkube?
 
